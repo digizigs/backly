@@ -3,7 +3,7 @@
   <div class="aside-header">
     <a href="{{route('app.admin.home')}}" class="aside-logo" style="text-align:center">
       <img src="{{asset('public/admin/assets/d-logo.png')}}" alt="d-logo" style="height:25px;">
-      digi<span>zigs</span>
+      back<span>ly</span>
     </a>
     <img src="" alt="">
     <a href="" class="aside-menu-link">
