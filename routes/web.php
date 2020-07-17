@@ -5,6 +5,7 @@ Route::post('/github/deploy', 'Admin\DeployController@deploy');
 
 Auth::routes();
 
+//WOla
 
 Route::prefix('/')->middleware('auth')->group(base_path('routes/admin.php'));
 
