@@ -1,6 +1,7 @@
 
 <?php
 
+Route::post('/github/deploy', 'Admin\DeployController@deploy');
 
 Auth::routes();
 
